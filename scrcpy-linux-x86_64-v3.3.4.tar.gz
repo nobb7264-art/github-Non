@@ -1,0 +1,3 @@
+adb shell wm size 1080x2640
+adb shell wm density 380
+
